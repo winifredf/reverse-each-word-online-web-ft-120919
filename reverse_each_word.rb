@@ -1,4 +1,4 @@
-def reverse_each_word(String)
+def reverse_each_word(greeting)
   original_array = string.split(" ")
   return_array = []
   original_array.each do|string|
